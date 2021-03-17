@@ -45,7 +45,7 @@ class ListContacts extends Component {
 
                 <a href="#create"
                 onClick={onNavigate}
-                class="add-contact"
+                className="add-contact"
                 >Add Contact</a>
                 </div>
 
